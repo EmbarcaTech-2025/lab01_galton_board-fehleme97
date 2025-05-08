@@ -40,6 +40,8 @@ Fazer uma simulação virtual da Galton Board através do display OLED de 128x64
 ## 🖥️ Execução
 Abra o projeto no VS Code, usando o ambiente com suporte ao SDK do Raspberry Pi Pico (CMake + compilador ARM).
 
+Import o projeto se atentando a versão do SDK 1.5.1 ou superior. 
+
 
 Compile o projeto normalmente (Ctrl+Shift+B no VS Code ou via terminal com cmake e make).
 
