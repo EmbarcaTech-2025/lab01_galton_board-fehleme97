@@ -16,9 +16,9 @@ Campinas, 09 de maio de 2025
 ## 📝 O projeto
 Este projeto implementa um Digital Twins de uma Galton Board, que consiste em um dispositivo composto por obstáculos esféricos estruturado em linhas triangulares e esferas que decorrem o percurso, forçando as bolas a cairem em caminhos diversos e demonstra visualmente a distribuição normal. O projeto foi inteiramente feito através do Display OLED e utilizado a técnica de algoritmo de Bresenham. 
 
-Através do botão A, o usuário pode alterar para ver o Histograma gerado pelas bolinhas que foram disponibilizados nas canaletas de armazenamento, sendo 8 canaletas no total, além de contabilizar quantas bolinhas foram geradas em tempo real. 
+Através do **botão A**, o usuário pode alterar para ver o Histograma gerado pelas bolinhas que foram depositadas nas canaletas de armazenamento, sendo 8 canaletas no total, além de contabilizar quantas bolinhas foram geradas em tempo real. 
 
-Pelo botão B, o usuário incrementa 50 bolinhas aleatórias geradas simultaneamente. 
+Pelo **botão B**, o usuário incrementa 50 bolinhas aleatórias geradas simultaneamente. 
 
 Durante o curso, foram utilizados bibliotecas de exemplos do ssd1306, disponível em: https://github.com/BitDogLab/BitDogLab-C/blob/main/display_oled/display_oled.c
 
@@ -76,9 +76,9 @@ As instruções ao usuário serão impressas no display OLED e posterior o conta
 • A lógica garante que cada bolinha gerada seja contabilizada corretamente, independente do momento de sua criação.
 
 ##  Arquivos
-- `EmbarcaTech-2025/lab01_galton_board-fehleme97/blob/main/galton_board.c`: Código principal do projeto
-- `EmbarcaTech-2025/lab01_galton_board-fehleme97/edit/main/README.md`: Arquivo CMake que contém as diretrizes do projeto e as bibliotecas utilizadas. 
-- `EmbarcaTech-2025/lab01_galton_board-fehleme97/blob/main/LICENSE`: Licença de distribuição. 
+- `lab01_galton_board-fehleme97/blob/main/galton_board.c`: Código principal do projeto
+- `lab01_galton_board-fehleme97/edit/main/README.md`: Arquivo CMake que contém as diretrizes do projeto e as bibliotecas utilizadas. 
+- `lab01_galton_board-fehleme97/blob/main/LICENSE`: Licença de distribuição. 
 
 
 ---
