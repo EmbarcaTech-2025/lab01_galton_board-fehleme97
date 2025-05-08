@@ -1,7 +1,7 @@
 
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **Felipe Leme Correa da Silva*
+Autor: *Felipe Leme Correa da Silva*
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
@@ -76,9 +76,9 @@ As instruções ao usuário serão impressas no display OLED e posterior o conta
 • A lógica garante que cada bolinha gerada seja contabilizada corretamente, independente do momento de sua criação.
 
 ##  Arquivos
-- `projetos/contador_decrescente/contador_decrescente.c`: Código principal do projeto
-- `projetos/contador_decrescente/CMakeLists.txt`: Arquivo CMake que contém as diretrizes do projeto e as bibliotecas utilizadas. 
-- `projetos/LICENSE`: Licença de distribuição. 
+- `EmbarcaTech-2025/lab01_galton_board-fehleme97/blob/main/galton_board.c`: Código principal do projeto
+- `EmbarcaTech-2025/lab01_galton_board-fehleme97/edit/main/README.md`: Arquivo CMake que contém as diretrizes do projeto e as bibliotecas utilizadas. 
+- `EmbarcaTech-2025/lab01_galton_board-fehleme97/blob/main/LICENSE`: Licença de distribuição. 
 
 
 ---
